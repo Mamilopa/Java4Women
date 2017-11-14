@@ -45,43 +45,6 @@ public class Main {
         allInvited.removeIf(name -> name.startsWith("A"));
         //allInvited.forEach(name-> System.out.println(name));
 
-//       Iterator iter= allInvited.iterator();
-//       
-//        while (iter.hasNext()){
-//        String string= (String) iter.next();
-//        if (string.startsWith("A")){
-//        iter.remove();
-//                }
-//           }
-//        System.out.println("After remove");
-//        for (String string : allInvited) {
-//            System.out.println(string);
-//            
-//        }
-//        
-//        for (String string : allInvited) {
-//            if (string.equalsIgnoreCase("Wilhelm")){
-//if (string.equalsIgnoreCase("Doris"))
-//    allInvited.remove("Wilhelm");
-//                //System.out.println("You are not invited");
-//
-//                //System.out.println("Dear " + string + " You are not invited to the party" );
-//                        }else{
-//            
-//            System.out.println("Dear " +string + " You are invited to the party");
     }
 
-    //System.out.println(allInvited);
-    //Collections.sort(hisFriends);
-//        hisFriends.sort(null);
-//        herFriends.sort(null);
-//        zacksFriends.sort(null);
-//        System.out.println(hisFriends);
-//        System.out.println(herFriends);
-//        System.out.println(zacksFriends);
-//        
-//        Collections.addAll(allInvited, "Tiger","Lion","Sheep");//lägger in objects i en ArrayList
-//        Collections.fill(allInvited, "Post");//Fyller positioner som finns i en ArrayList med object
-//        System.out.println(allInvited);
-//        
 }
